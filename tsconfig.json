@@ -1,0 +1,13 @@
+{
+     "compilerOptions": {
+       "experimentalDecorators": true,
+       "lib": ["es2020"],
+       "target": "ES2019",
+       "module": "CommonJS",
+       "types": ["node"],
+
+       "strict": true,
+       "esModuleInterop": true,
+       "skipLibCheck": true
+     }
+   }
